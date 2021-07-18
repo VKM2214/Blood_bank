@@ -13,12 +13,12 @@ Blood-Management-System
 ** If a user is logged in as a hospital, then the user should not be allowed to request for a blood sample.
 * Hospital ‘View requests’ page - Hospitals should be able to see the list of all the receivers who have requested for particular blood group from its blood bank.
 
-Technologies: 
+# Technologies: 
 * Front-end : HTML , CSS , JavaScript , Jquery , Bootstrap 
 * Back-end : PHP, Mysqli, JSON
 * Software : Xampp, Chrome or other browser
 
-Setup and Installation
+# Setup and Installation
 * Download the zip file of this directory.
 * Copy the file into your xampp htdocs location. by default the location is **C://xampp/htdocs**
 * Open the xampp controller and start Apache and Mysql
@@ -26,3 +26,5 @@ Setup and Installation
 * Create a new database **blood_bank**
 * Select this database and click on **import** section. select this file : **C://xampp/htdocs/blood_bank/sql/blood_bank.sql**, and hit OK. It will create all the relevant table for this project.
 * Now everything is set. Open your browser any type this : **localhost/blood_bank**
+
+# Website is hoisted here: https://vickysampletask.000webhostapp.com/
